@@ -131,7 +131,7 @@ body {
 
 .block1 {
   height: 800px;
-  background-image: url(./images/main.png);
+  background-image: url(/images/main.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -192,13 +192,13 @@ body {
   min-height: 500px;
   width: 50%;
   margin-right: 16px;
-  background-image: url(./images/suplement.png);
+  background-image: url(/images/suplement.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .block2__right {
   width: 50%;
-  background-image: url(./images/laser.png);
+  background-image: url(/images/laser.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -275,7 +275,7 @@ body {
 .block4 {
   margin: 16px 0;
   min-height: 729px;
-  background: url(./images/innovation.png);
+  background: url(/images/innovation.png);
   padding-top: 291px;
 }
 .block4 h2 {
@@ -291,7 +291,7 @@ body {
 }
 .block5 {
   min-height: 430px;
-  background: url(./images/founder.png);
+  background: url(/images/founder.png);
   padding-top: 136px;
   display: flex;
 }
